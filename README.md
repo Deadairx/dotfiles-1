@@ -6,7 +6,7 @@ Simple, but extensive customization of ZSH, TMUX, and Vim.
 
 ## Setup Options
 
-There's 3 ways in which you can use this, depending on how much you think you'll be customizing.
+There are 3 ways in which you can use this, depending on how much you think you'll be customizing.
 
 One of the key features is that this implementation stays in sync across all your machines. So depending on how much you'd like to customize your configuration, you have a few options:
 
